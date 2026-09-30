@@ -1,0 +1,35 @@
+📌 Project Features
+Add employees
+View employees
+Apply for leave
+View leave requests
+Approve/reject leave
+Check leave balance
+Search employees
+Delete employees
+JSON data storage
+Separate modules for employees, leaves, storage, utilities, and menu
+
+🛠️ Tech Stack
+Python
+JSON
+File Handling
+Functions
+Modules
+Datetime
+
+📁 Folder Structure
+employee-leave-management/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── employee_manager.py
+├── leave_manager.py
+├── utils.py
+│
+├── data/
+│   ├── employees.json
+│   └── leaves.json
+│
+└── README.md
